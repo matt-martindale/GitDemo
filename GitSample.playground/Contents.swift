@@ -1,3 +1,3 @@
 import UIKit
 
-var name: String = "Matt Martindale"
+var fullName: String = "Matt Martindale"
